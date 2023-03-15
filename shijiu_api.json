@@ -329,32 +329,32 @@
         "countryCodes": ["TR","PH","BR","HK"],
         "adjustParams": [
             {
-                "name": "deposit-success",
-                "value": "vudaav"
-            },
-            {
-                "name": "signup-success",
-                "value": "g25uvn"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "ky9alw"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "e5evs4"
-            },
-            {
-                "name": "register-success",
-                "value": "nuy5u5"
+                "name": "registerSubmit",
+                "value": "1oo4qw"
             },
             {
                 "name": "register",
                 "value": "1oo4qw"
             },
             {
+                "name": "depositSubmit",
+                "value": "vudaav"
+            },
+            {
                 "name": "firstDeposit",
-                "value": "sgq5l9"
+                "value": "g25uvn"
+            },
+            {
+                "name": "withdraw",
+                "value": "ky9alw"
+            },
+            {
+                "name": "firstDepositArrival",
+                "value": "e5evs4"
+            },
+            {
+                "name": "deposit",
+                "value": "nuy5u5"
             }
         ]
     }
